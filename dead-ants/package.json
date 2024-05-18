@@ -1,0 +1,30 @@
+{
+  "name": "dead-ants",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "version": "1.0.0",
+  "description": "codewars kata lv 6 kyu",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  
+      "type": "module",
+  
+      "jest": {
+          "transform":{
+  
+          }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smudgeConn/dead-ants.git"
+  },
+  "author": "Sandra Jurado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smudgeConn/dead-ants/issues"
+  },
+  "homepage": "https://github.com/smudgeConn/dead-ants#readme"
+}
